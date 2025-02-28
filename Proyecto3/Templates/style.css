@@ -1,0 +1,8 @@
+body {
+    background-color: black; /* Fondo negro */
+    color: white; /* Texto blanco */
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo de la tarjeta semi-transparente */
+}
